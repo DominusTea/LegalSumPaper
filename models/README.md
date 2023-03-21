@@ -1,0 +1,2 @@
+- _Extractive_ summarization methods code is in graph_based and simple folders.
+- To download the weights for the abstractive BERT Encoder-Decoder model go to this [link](https://drive.google.com/drive/u/2/folders/1UxtToIeabWI7QMltIJnbD3zzscjchP29).
